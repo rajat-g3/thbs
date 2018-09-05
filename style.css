@@ -92,12 +92,6 @@ a:hover {
     width: 940px;
 }
 
-#wrapper-bottom {
-    background: url(<?= SITE_URL?>/assets/wrapper-footer.gif) no-repeat 0px 0px;
-    height: 40px;
-}
-
-
 #footer {
     background: #EDEDED;
     padding-bottom: 8px;
